@@ -58,8 +58,7 @@ This project is a simple **Email & Password Generator** designed to generate ran
 
 ## Folder Structure
 ```
-```
-📦 Random-Email-Password-Generator
+Random-Email-Password-Generator
 ├─ CSS
 │  ├─ download.css
 │  ├─ faqrec.css
@@ -87,6 +86,7 @@ This project is a simple **Email & Password Generator** designed to generate ran
 ├─ Random Password.zip
 └─ Test
    └─ test.html
+```
 
 
 
