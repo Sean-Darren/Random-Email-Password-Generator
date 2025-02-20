@@ -1,0 +1,113 @@
+/* Start All */
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #3c3d37;
+  color: white;
+}
+/* End All */
+/* Navbar */
+#navbar_content {
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #697565;
+  height: 8vh;
+}
+#navbar_position {
+  text-align: right;
+}
+#random_text {
+  font-family: "Karla", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: white;
+}
+.nav-link {
+  color: white;
+}
+/* End of Navbar */
+/* Start Footer */
+#authorname {
+  text-decoration: none;
+  color: #ffff !important;
+  font-weight: 650;
+}
+/* End Footer */
+.intro {
+  height: 30%;
+  width: 100%;
+  margin: 0 auto;
+}
+#intro_text {
+  margin: 2%;
+  font-size: 500%;
+}
+#intro_paragraph,
+#safetyreason {
+  margin: 2%;
+  padding: 1%;
+  border-radius: 10px;
+  background-color: #b7a778d4;
+  font-size: medium;
+}
+.epass {
+  height: 50%;
+  width: 90%;
+  border-radius: 20px;
+  margin: 2% 2% 2%;
+  border: 2px solid #ecdfcc;
+  margin: 0 auto;
+  padding: 2%;
+  margin-bottom: 3%;
+}
+#floatingInput,
+#floatingPassword {
+  width: 50%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.buttong {
+  background-color: #697565;
+  padding: 0.4%;
+  color: white;
+  border-radius: 8px;
+  box-shadow: none;
+  border: none;
+}
+#customRange3::-webkit-slider-thumb {
+  background-color: #697565;
+  border: 1px solid white;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-top: -8px;
+}
+#customRange3:hover::-webkit-slider-thumb {
+  background-color: #ffff;
+}
+.range_form {
+  margin-bottom: 2%;
+}
+.form-check-input:checked {
+  background-color: rgb(49, 106, 49) !important;
+  border: 0;
+}
+.form-check-input:focus,
+.label::after,
+label.form-check-label:focus,
+.form-check-input::after,
+.form-check-input:not(:disabled):not(.disabled):active:focus {
+  color: black;
+  outline: 0;
+  border: 0;
+  box-shadow: 0 0 0 0.1rem green !important;
+}
+.alert{
+  margin-top: 1%;
+  width: 30%;
+  display: none;
+} 

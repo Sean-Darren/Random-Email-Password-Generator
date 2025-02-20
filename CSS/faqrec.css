@@ -1,0 +1,54 @@
+/* Start All */
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #3c3d37;
+  color: white;
+}
+/* End All */
+/* Navbar */
+#navbar_content {
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #697565;
+  height: 8vh;
+}
+#navbar_position {
+  text-align: right;
+}
+#random_text {
+  font-family: "Karla", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: white;
+}
+.nav-link {
+  color: white;
+}
+/* End of Navbar */
+/* Start Footer */
+#authorname {
+  text-decoration: none;
+  color: #ffff !important;
+  font-weight: 650;
+}
+/* End Footer */
+/* Start of Content */
+#firsthead {
+  font-size: 400%;
+  text-align: center;
+  margin-top: 2%;
+}
+#firstpara {
+  font-size: 100%;
+  text-align: center;
+  margin-bottom: 3%;
+}
+.faq_content {
+  width: 85%;
+  margin: 0 auto;
+  margin-bottom: 2%;
+}
