@@ -24,6 +24,7 @@ This project is a simple **Email & Password Generator** designed to generate ran
 - **HTML5**
 - **CSS & Bootstrap 5**
 - **JavaScript**
+- **Python**
 
 ---
 
